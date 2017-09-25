@@ -8,7 +8,6 @@ input[type=text], input[type=password] {
     border-radius: 15px 50px 30px 5px;
     box-sizing: border-box;
 }
-
 div.container {
     width: 50%;
     border:1px solid none;
@@ -20,16 +19,6 @@ div.container {
     padding-left: 80px;
 }
 
-div.containers {
-    width: 100%;
-    border: 1px solid gray;
-    background-color: lightcyan; 
-    margin: auto;
-    padding-top: 90px;
-    padding-right: 30px;
-    padding-bottom: 100px;
-    padding-left: 80px;
-}
 
 header, footer {
     padding: 1em;
